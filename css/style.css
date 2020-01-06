@@ -1327,7 +1327,13 @@ span.border.two:after {
 		margin-top: 149px;
 	}
 	ul.year li:nth-child(5) {
-		margin-top: 147px;
+		margin-top: 149px;
+	}
+	ul.year li:nth-child(6) {
+		margin-top: 149px;
+	}
+	ul.year li:nth-child(7) {
+		margin-top: 149px;
 	}
 	.thumb .team_pos {
 		bottom: -83px;
@@ -1417,6 +1423,14 @@ span.border.two:after {
 		margin-top: 0px!important;
 	}
 	ul.year li:nth-child(5){
+		margin-top: 0px!important;
+		    margin-bottom: 0em;
+	}
+	ul.year li:nth-child(6){
+		margin-top: 0px!important;
+		    margin-bottom: 0em;
+	}
+	ul.year li:nth-child(7){
 		margin-top: 0px!important;
 		    margin-bottom: 0em;
 	}
