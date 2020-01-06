@@ -227,6 +227,7 @@ ul.social-icons{
     transition: .5s all;
     -moz-transition: .5s all;
 }
+
 .social-icons li a:before {
 	content: '';
     display: block;
