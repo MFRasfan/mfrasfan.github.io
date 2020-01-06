@@ -1,9 +1,4 @@
-/*--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
---*/
+
 html, body{
     font-family: 'Open Sans', sans-serif;
     font-size: 100%;
@@ -670,7 +665,7 @@ h4.timeline-title a {
     color:#333;
 }
 h4.timeline-title a:hover {
-    color: #00C6D7;
+    color: #8B0000;
 }
 .timeline-body p {
     font-size: 0.9em;
